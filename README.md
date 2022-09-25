@@ -4,4 +4,4 @@
 * Dnd
 * Fantasy literature
 
-(ALostGuardian/CIS350-HW2-Snyder/edit/main/Technical Background)
+[Relative Link](main/Technical Background)
