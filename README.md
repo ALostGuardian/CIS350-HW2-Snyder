@@ -4,4 +4,4 @@
 * Dnd
 * Fantasy literature
 
-[Relative Link](main/Technical Background)
+[Relative Link](Technical Background)
