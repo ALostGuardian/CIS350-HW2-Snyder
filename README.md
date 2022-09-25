@@ -1,5 +1,5 @@
 #Isabella Snyder
 
--Video Games
--Dnd
--Fantasy literature
+* Video Games
+* Dnd
+* Fantasy literature
