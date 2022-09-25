@@ -1,1 +1,5 @@
-# CIS350-HW2-Snyder
+#Isabella Snyder
+
+-Video Games
+-Dnd
+-Fantasy literature
